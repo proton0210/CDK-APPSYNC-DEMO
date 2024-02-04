@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/proton0210/DEMO-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/proton0210/DEMO-frontend.git
